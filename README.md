@@ -1,2 +1,3 @@
-# beverly-clearly-geometry
-Beverly Clearly school Geometry class
+# Beverly Clearly Geometry
+
+Welcome to the Beverly Clearly School Geometry class.
